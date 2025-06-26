@@ -1,5 +1,5 @@
 # Fear-Greed-Trading
-# 🧠 Trader Behavior Insights Based on Bitcoin Market Sentiment
+## 🧠 Trader Behavior Insights Based on Bitcoin Market Sentiment
 
 This data science project explores how **market sentiment** (Fear vs Greed) influences **trader behavior and performance** using historical trading data and sentiment index values.
 
