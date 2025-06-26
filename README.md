@@ -84,16 +84,6 @@ All visualizations are built using `matplotlib` and `seaborn`.
 
 ---
 
-## 📬 How to Apply
-
-As part of the assignment process, please send this completed analysis with your resume to:
-
-📧 **saami@bajarangs.com**, **nagasai@bajarangs.com**  
-📩 CC: **sonika@primetrade.ai**  
-📌 Subject: `"Junior Data Scientist – Trader Behavior Insights"`
-
----
-
 ## 🏁 Conclusion
 
 This project offers insights into how **emotions drive trading decisions**, and how certain traders may have an edge during **market downturns**. It bridges behavioral finance with real trading outcomes — an exciting intersection of psychology and crypto analytics.
